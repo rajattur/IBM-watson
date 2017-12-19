@@ -1,0 +1,13 @@
+{
+  "conversation": [
+    {
+      "name": "bot-conversati-1513386535556",
+      "plan": "free",
+      "credentials": {
+        "url": "https://gateway.watsonplatform.net/conversation/api",
+        "username": "1c7dc479-334f-42b6-bf6d-f1cf74d0055a",
+        "password": "k6L7vEaPOuSg"
+      }
+    }
+  ]
+}
