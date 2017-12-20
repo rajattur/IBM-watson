@@ -9,6 +9,7 @@
   "author": "raj",
   "license": "ISC",
   "dependencies": {
+    "twilio": "^3.11.0",
     "watson-developer-cloud": "^3.0.3"
   }
 }
