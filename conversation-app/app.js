@@ -20,7 +20,7 @@ const conversation = watson.conversation({
 
 conversation.message({
     workspace_id: 'a13baecf-4946-4656-acad-e37ef04f68ea',
-    input: {'text': 'H'},
+    input: {'text': 'Hi'},
     context: {conversation_id: '6f067a00-2a82-4149-a3c6-1b6564f79818'}
 },  function(err, response) {
     if (err)
